@@ -1,0 +1,29 @@
+Click the Start Menu, type PowerShell, and open it.
+Copy and paste the code below and press Enter.
+
+
+
+
+IMPORTANT:
++-----------------------------------------+
+| irm https://get.activated.win | iex     |
++-----------------------------------------+
+
+Activations Summary
+
++----------------+----------------------+----------------+----------------------------------------------+
+| Activation     | Supported Product    | Activation     | Is Internet Needed?                           |
+| Type           |                      | Period         |                                              |
++----------------+----------------------+----------------+----------------------------------------------+
+| HWID           | Windows 10-11        | Permanent      | Yes                                          |
++----------------+----------------------+----------------+----------------------------------------------+
+| Ohook          | Office               | Permanent      | No                                           |
++----------------+----------------------+----------------+----------------------------------------------+
+| TSforge        | Windows / ESU /      | Permanent      | Only needed for StaticCID method             |
+|                | Office               |                | (used on build 26100 and above)              |
++----------------+----------------------+----------------+----------------------------------------------+
+| Online KMS     | Windows / Office     | 180 Days       | Yes                                          |
+|                |                      | (Lifetime with |                                              |
+|                |                      | renewal task)  |                                              |
++----------------+----------------------+----------------+----------------------------------------------+
+
